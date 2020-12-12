@@ -3,4 +3,6 @@
 
 ## 原~玛伊雅弥蝎
 [查看](https://github.com/txsrht886/Original-MayiyamiScorpion)
+## 原~玛门鱼
+[查看](https://github.com/txsrht886/Original-MayiyamiScorpion
 
