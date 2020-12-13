@@ -1,4 +1,5 @@
 # 自主研究心理学
+lp[![Preview of Telegram Desktop][preview_image]][preview_image_url]
 
 ## 查看十二位各方趋势
 
