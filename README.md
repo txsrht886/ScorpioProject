@@ -7,7 +7,7 @@ lp[![Preview of Telegram Desktop][preview_image]][preview_image_url]
 * 点击蓝色字查看
 
 * ([原~昔拉水](https://github.com/txsrht886/Water-bottle)  *  [ 原~玛门鱼](https://github.com/txsrht886/Pisces))
-* ((3月21日～4月19日  *  4月20日～5月20日))
+* (3月21～4月19  *  4月20～5月20)
 * ([原~切茜娅羊](https://github.com/txsrht886/Aries)  *  [原~撒旦牛](https://github.com/txsrht886/Taurus) )
 * ((
 * ([原~沙利叶双](https://github.com/txsrht886/Gemini)  *  [原~路西法蟹](https://github.com/txsrht886/Cancer))
