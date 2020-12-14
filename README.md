@@ -10,7 +10,8 @@ lp[![Preview of Telegram Desktop][preview_image]][preview_image_url]
 * ([原~切茜娅羊](https://github.com/txsrht886/Aries))([原~撒旦牛](https://github.com/txsrht886/Taurus) )
 * ([原~沙利叶双](https://github.com/txsrht886/Gemini))([原~路西法蟹](https://github.com/txsrht886/Cancer))
 * ([原~帛曳狮](https://github.com/txsrht886/Leo))([原~亚伯罕女](https://github.com/txsrht886/Virgo))
-* ([原~玛伊雅弥蝎](https://github.com/txsrht886/Scorpio))([原~贲薨手](https://github.com/txsrht886/Sagittarius))
+* ([原~玛伊雅弥蝎](https://github.com/txsrht886/Scorpio))
+* [原~贲薨手](https://github.com/txsrht886/Sagittarius))
 
 
  思维导向 ，抽象变维，性格突破。
