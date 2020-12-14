@@ -18,4 +18,4 @@ lp[![Preview of Telegram Desktop][preview_image]][preview_image_url]
 * [原~贲薨手](https://github.com/txsrht886/Sagittarius)
 * [原~萨麦尔羯](https://github.com/txsrht886/Capricorn)
 
-## 思维导向 ，抽象变维，性格突破。
+ 思维导向 ，抽象变维，性格突破。
