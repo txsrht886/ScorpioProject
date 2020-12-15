@@ -1,5 +1,4 @@
 # 自主研究心理学
-lp[![Preview of Telegram Desktop][preview_image]][preview_image_url]
 
 ## 查看十二位各方趋势
 
@@ -20,3 +19,4 @@ lp[![Preview of Telegram Desktop][preview_image]][preview_image_url]
 * (11.23-12.21  *  12.22-1.19)
 
  思维导向 ，抽象变维，性格突破。
+## 分别于 诅咒 $ 世界尽头 $ 死无对证， 等 
