@@ -1,6 +1,6 @@
 # 自主研究心理学
 
-## 分别于 诅咒 $ 世界尽头 $ 死无对证 $  [意义](https://github.com/txsrht886/psychology/releases) $ [死亡](https://github.com/txsrht886/death) 
+## 分别于 世界尽头 $ 死无对证 $  [意义](https://github.com/txsrht886/psychology/releases) $ [死亡](https://github.com/txsrht886/death) 
 
 ## 查看十二位各方趋势
 
