@@ -8,18 +8,6 @@
 ## 查看十二位各方趋势
 ## 点击蓝色字查看
 
-* ([原~昔拉水](https://github.com/txsrht886/Water-bottle)  *  [ 原~玛门鱼](https://github.com/txsrht886/Pisces))
-* (1.20-2.19  *  2.20-3.20)
-* ([原~切茜娅羊](https://github.com/txsrht886/Aries)  *  [原~撒旦牛](https://github.com/txsrht886/Taurus) )
-* (3.21-4.19  *  4.20-5.20)
-* ([原~沙利叶双](https://github.com/txsrht886/Gemini)  *  [原~路西法蟹](https://github.com/txsrht886/Cancer))
-* (5.21-6.21  *  6.22-7.22)
-* ([原~帛曳狮](https://github.com/txsrht886/Leo)  *  [原~亚伯罕女](https://github.com/txsrht886/Virgo))
-* (7.23-8.23  *  8.23-9.22)
-* ([原~番尼天](https://github.com/txsrht886/Libra)  *  [原~玛伊雅弥蝎](https://github.com/txsrht886/Scorpio))
-* (10.23-10.23  *  10.24-11.22)
-* ([原~贲薨手](https://github.com/txsrht886/Sagittarius)  *  [原~萨麦尔羯](https://github.com/txsrht886/Capricorn))
-* (11.23-12.21  *  12.22-1.19)
 
  思维导向 ，抽象变维，性格突破。
 
